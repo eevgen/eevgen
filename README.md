@@ -5,9 +5,8 @@
 ---
 
 <p align="center">
-  <img src="assets/bobs-burger-tina-belcher.gif" width="100%" alt="Java animation"/>
+  <img src="https://github.com/YevhenKalenichenko/YevhenKalenichenko/blob/output/snake.svg" alt="Snake animation" />
 </p>
-
 
 ---
 
