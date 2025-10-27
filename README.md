@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/YevhenKalenichenko/YevhenKalenichenko/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/eevgen/eevgen/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
